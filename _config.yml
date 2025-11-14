@@ -1,9 +1,9 @@
 # Site settings
-title:
+title: BitBuilders
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "https://massate.github.io" # the subpath of your site, e.g. /blog/
+url: "/sitodiprova" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
