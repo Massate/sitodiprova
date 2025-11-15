@@ -1,6 +1,6 @@
 # Sito di prova per BitBuilders
-Usa il tema "Creative"
+Usa il tema "Creative".
 
-## Da fare
-Copiarlo/Spostarlo sulla cartella principale
+## Da fare:
+Copiarlo/Spostarlo sulla cartella principale.
 
